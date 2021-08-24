@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1629267600 source:c:\users\user\desktop\cuarto semestre entre comillas\estructuras de datos\ejemplo\carro.cpp
+	"carro.h"
+
+1629268490 c:\users\user\desktop\cuarto semestre entre comillas\estructuras de datos\ejemplo\carro.h
+	<iostream>
+
